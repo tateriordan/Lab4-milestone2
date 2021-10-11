@@ -21,9 +21,9 @@
         android:layout_width="547dp"
         android:layout_height="907dp"
         android:scaleType="fitXY"
-        app:layout_constraintBottom_toBottomOf="@+id/textView5"
+        app:layout_constraintBottom_toBottomOf="@+id/addressTextView"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView5"
+        app:layout_constraintTop_toBottomOf="@+id/addressTextView"
         app:srcCompat="@drawable/photo_1519750783826_e2420f4d687f" />
 
     <TextView
