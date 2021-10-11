@@ -53,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
             }
 
         };
+
         if (Build.VERSION.SDK_INT < 23){
             startListening();
         } else {
